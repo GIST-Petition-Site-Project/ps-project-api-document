@@ -18,8 +18,8 @@ GET
 
 ### RESPONSE BODY EXAMPLE
 
-```javascript
-{
+```java
+[
     {
         "id": 1,
         "category": "category1",
@@ -40,6 +40,6 @@ GET
             "email": "sinyr119@gist.ac.kr"
         }
     },
-}
+]
 ```
 

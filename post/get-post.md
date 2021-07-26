@@ -18,17 +18,15 @@ GET
 
 ### RESPONSE BODY EXAMPLE
 
-```javascript
+```java
 {
-    {
+    "id": 1,
+    "category": "category1",
+    "title": "기숙사 ~건의합니다",
+    "content": "~한 문제 해결 바랍니다",
+    "user": {
         "id": 1,
-        "category": "category1",
-        "title": "기숙사 ~건의합니다",
-        "content": "~한 문제 해결 바랍니다",
-        "user": {
-            "id": 1,
-            "email": "sinyr119@gist.ac.kr"
-        }
+        "email": "sinyr119@gist.ac.kr"
     }
 }
 ```
