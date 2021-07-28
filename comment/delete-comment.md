@@ -8,7 +8,7 @@
 DELETE
 ```
 
-## URL
+## URL EXAMPLE
 
 ```text
 /gistps/api/v1/post/:postid/comment/:commentid
