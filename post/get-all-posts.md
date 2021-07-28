@@ -8,7 +8,7 @@
 GET
 ```
 
-## URL
+## URL EXAMPLE
 
 ```text
 /gistps/api/v1/post/list
@@ -18,8 +18,8 @@ GET
 
 ### RESPONSE BODY EXAMPLE
 
-```java
-[
+```javascript
+{
     {
         "id": 1,
         "category": "category1",
@@ -40,6 +40,6 @@ GET
             "email": "sinyr119@gist.ac.kr"
         }
     },
-]
+}
 ```
 

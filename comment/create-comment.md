@@ -8,7 +8,7 @@
 POST
 ```
 
-## URL
+## URL EXAMPLE
 
 ```text
 /gistps/api/v1/post/:Id/comment

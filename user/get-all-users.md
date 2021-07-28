@@ -8,7 +8,7 @@
 GET
 ```
 
-## URL
+## URL EXAMPLE
 
 ```text
 /gistps/api/v1/user/list

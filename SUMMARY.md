@@ -16,8 +16,9 @@
 * [Get Post](post/get-post.md)
 * [Get All Posts](post/get-all-posts.md)
 * [Get Number of All Posts](post/get-number-of-all-posts.md)
-* [Get Number of Answered Posts](post/get-number-of-answered-posts.md)
-* [Get Top 5 Posts](post/get-top-5-posts.md)
+* [Get filtered Posts](post/get-filtered-posts/README.md)
+  * [Get Top 5 Posts](post/get-filtered-posts/get-top-5-posts.md)
+  * [Get Number of Answered Posts](post/get-filtered-posts/get-number-of-answered-posts.md)
 
 ## COMMENT
 
