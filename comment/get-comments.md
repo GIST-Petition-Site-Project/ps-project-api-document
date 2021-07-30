@@ -17,17 +17,17 @@ GET
 ### RESPONSE BODY EXAMPLE
 
 ```javascript
-{
+[
   {        
         "id":1,
-        "postId": 1,
-        "content": "저도 동의합니다"
+        "content": "저도 동의합니다",
+        "created": "2021-07-30T20:10:50.642331"
   },
   {        
           "id":2,
-          "postId": 1,
-          "content": "저도 동의합니다"
+          "content": "저도 동의합니다",
+          "created": "2021-07-30T20:10:50.642331"
   },
-}
+]
 ```
 
