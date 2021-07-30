@@ -1,4 +1,4 @@
-# Get Comments
+# Get Comments by post Id
 
 ## METHOD
 
