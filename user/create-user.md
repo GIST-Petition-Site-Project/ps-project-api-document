@@ -20,6 +20,8 @@ POST
 
 | name | type | require | description |
 | :--- | :--- | :--- | :--- |
+| userId | string | 필수 | 유저 아이디 |
+| userPassword | string | 필수 | 유저 비밀번 |
 | username | string | 필수 | 유저 이름 |
 | email | string | 필수 | 유저 이메일 |
 
@@ -27,8 +29,10 @@ POST
 
 ```javascript
 {
-    "username": "koseyeon",
-    "email": "sinyr119@gist.ac.kr"
+    "userId" : "sinyr119",
+    "userPassword" : "qwer1234", 
+    "username" : "koseyeon",
+    "email" : "sinyr119@gist.ac.kr",
 }
 ```
 

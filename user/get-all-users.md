@@ -19,15 +19,15 @@ GET
 ### RESPONSE BODY EXAMPLE
 
 ```javascript
-{
+[
     {
-        "id": 1,
+        "userId": "sinyr119",
         "email": "sinyr119@gist.ac.kr"
     },
     {
-        "id": 2,
+        "userId": "hong12",
         "email": "hongildong@gist.ac.kr"
     }
-}
+]
 ```
 

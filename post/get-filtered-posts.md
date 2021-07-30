@@ -26,61 +26,56 @@ GET
 
 ```text
 [
-   {
+  {
         "id": 1,
         "category": "category1",
         "title": "기숙사 ~건의합니다",
-        "content": "~한 문제 해결 바랍니다",
-        "answered": true
-        "user": {
-            "id": 1,
-            "email": "sinyr119@gist.ac.kr"
-        }
+        "description": "~한 문제 해결 바랍니다",
+        "user_id": "sinyr119",
+        "created": "2021-07-30T20:10:50.642331",
+        "answered": false,
+        "accepted": 0,
     },
     {
         "id": 2,
-        "category": "category1",
+        "category": "category2",
         "title": "식당 ~건의합니다",
-        "content": "~한 문제 해결 바랍니다",
-        "answered": true
-        "user": {
-            "id": 1,
-            "email": "sinyr119@gist.ac.kr"
-        }
+        "description": "~한 문제 해결 바랍니다",
+        "user_id": "hong123",
+        "created": "2021-07-30T20:10:50.642331",
+        "answered": false,
+        "accepted": 0,
     },
     {
-        "id": 3,
+        "id": 1,
         "category": "category1",
         "title": "기숙사 ~건의합니다",
-        "content": "~한 문제 해결 바랍니다",
-        "answered": true
-          
-        "user": {
-            "id": 1,
-            "email": "sinyr119@gist.ac.kr"
-        }
+        "description": "~한 문제 해결 바랍니다",
+        "user_id": "sinyr119",
+        "created": "2021-07-30T20:10:50.642331",
+        "answered": false,
+        "accepted": 0,
     },
     {
-        "id": 4,
-        "category": "category1",
+        "id": 2,
+        "category": "category2",
         "title": "식당 ~건의합니다",
-        "content": "~한 문제 해결 바랍니다",
-        "user": {
-            "id": 1,
-            "email": "sinyr119@gist.ac.kr"
-        }
+        "description": "~한 문제 해결 바랍니다",
+        "user_id": "hong123",
+        "created": "2021-07-30T20:10:50.642331",
+        "answered": false,
+        "accepted": 0,
     },
     {
-        "id": 5,
+        "id": 1,
         "category": "category1",
         "title": "기숙사 ~건의합니다",
-        "content": "~한 문제 해결 바랍니다",
-        "answered": true
-        "user": {
-            "id": 1,
-            "email": "sinyr119@gist.ac.kr"
-        }
-    }
+        "description": "~한 문제 해결 바랍니다",
+        "user_id": "sinyr119",
+        "created": "2021-07-30T20:10:50.642331",
+        "answered": false,
+        "accepted": 0,
+    },
 ]
 ```
 
