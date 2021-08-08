@@ -11,7 +11,7 @@ GET
 ## URL EXAMPLE
 
 ```text
-/gistps/api/v1/user/list
+/gistps/api/v1/user
 ```
 
 

@@ -9,7 +9,7 @@ GET
 ## URL EXAMPLE
 
 ```text
-/gistps/api/v1/post/:postId/comment/
+/gistps/api/v1/post/:postId/comment
 ```
 
 
