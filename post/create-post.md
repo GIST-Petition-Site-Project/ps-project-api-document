@@ -9,7 +9,7 @@ POST
 ## URL EXAMPLE
 
 ```text
-/gistps/api/v1/post/
+/gistps/api/v1/post
 ```
 
 

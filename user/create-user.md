@@ -11,7 +11,7 @@ POST
 ## URL EXAMPLE
 
 ```text
-/gistps/api/v1/user/
+/gistps/api/v1/user
 ```
 
 
