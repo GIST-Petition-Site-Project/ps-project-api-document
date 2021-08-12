@@ -18,7 +18,7 @@ POST
 
 | name | type | description |
 | :--- | :--- | :--- |
-| userId | long | 작성하는 유저 id \(서버 존재하는 user\_id여야 합니다!\) |
+| userId | long | 작성하는 유저 id \(서버에 저장된 id -숫자\) |
 | title | string | 제목 |
 | description | string | 내용 |
 | category | string | 카테고리 |
