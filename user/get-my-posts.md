@@ -20,25 +20,27 @@ GET
 
 ```javascript
 [
-   {
+    {
         "id": 1,
-        "category": "category1",
-        "title": "기숙사 ~건의합니다",
+        "comment": [],
+        "title": "기숙사 ~에 대해 건의합니다",
         "description": "~한 문제 해결 바랍니다",
-        "user_id": "sinyr119",
-        "created": "2021-07-30T20:10:50.642331",
+        "category": "분류1",
+        "created": "2021-08-12",
         "answered": false,
         "accepted": 0,
+        "userId": 1
     },
     {
         "id": 2,
-        "category": "category2",
-        "title": "식당 ~건의합니다",
-        "description": "~한 문제 해결 바랍니다",
-        "user_id": "sinyr119",
-        "created": "2021-07-30T20:10:50.642331",
+        "comment": [],
+        "title": "기숙사 ~에 대해 건의합니다2",
+        "description": "~한 문제 해결 바랍니다2",
+        "category": "분류1",
+        "created": "2021-08-12",
         "answered": false,
         "accepted": 0,
+        "userId": 1
     }
 ]
 ```

@@ -34,5 +34,17 @@ POST
 }
 ```
 
+### RESPONSE BODY 
+
+| type | description |
+| :--- | :--- |
+| Long | 생성된 게시글의 고유 id |
+
+### RESPONSE BODY EXAMPLE
+
+```javascript
+4
+```
+
 
 

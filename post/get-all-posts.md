@@ -25,7 +25,8 @@ GET
         "comment": [],
         "title": "기숙사 ~에 대해 건의합니다",
         "description": "~한 문제 해결 바랍니다",
-        "created": "2021-08-12T15:05:22.019366",
+        "category": "분류1",
+        "created": "2021-08-12",
         "answered": false,
         "accepted": 0,
         "userId": 1
@@ -33,22 +34,24 @@ GET
     {
         "id": 2,
         "comment": [],
-        "title": "기숙사 ~에 대해 건의합니다",
-        "description": "~한 문제 해결 바랍니다",
-        "created": "2021-08-12T15:05:35.654561",
+        "title": "기숙사 ~에 대해 건의합니다2",
+        "description": "~한 문제 해결 바랍니다2",
+        "category": "분류1",
+        "created": "2021-08-12",
         "answered": false,
         "accepted": 0,
-        "userId": 3
+        "userId": 1
     },
     {
         "id": 3,
         "comment": [],
-        "title": "기숙사 ~에 대해 건의합니다2",
-        "description": "~한 문제 해결 바랍니다",
-        "created": "2021-08-12T15:05:45.750362",
+        "title": "식당 ~에 대해 건의합니다2",
+        "description": "~한 문제 해결 바랍니다2",
+        "category": "분류2",
+        "created": "2021-08-12",
         "answered": false,
         "accepted": 0,
-        "userId": 3
+        "userId": 2
     }
 ]
 ```

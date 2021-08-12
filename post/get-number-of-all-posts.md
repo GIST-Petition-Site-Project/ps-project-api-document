@@ -19,9 +19,7 @@ GET
 ### RESPONSE BODY EXAMPLE
 
 ```javascript
-{
-   "count": 100
-}
+3
 ```
 
 
