@@ -18,7 +18,7 @@ POST
 
 | name | type | description |
 | :--- | :--- | :--- |
-| user\_id | long | 작성하는 유저 id \(서버 존재하는 user\_id여야 합니다!\) |
+| userId | long | 작성하는 유저 id \(서버 존재하는 user\_id여야 합니다!\) |
 | title | string | 제목 |
 | description | string | 내용 |
 | category | string | 카테고리 |
@@ -27,7 +27,7 @@ POST
 
 ```javascript
 {
-    "user_id" : "1",
+    "userId" : 1,
     "title" : "기숙사 ~에 대해 건의합니다",
     "description" : "~한 문제 해결 바랍니다",
     "category" : "분류1"

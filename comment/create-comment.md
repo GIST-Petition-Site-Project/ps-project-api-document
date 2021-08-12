@@ -27,7 +27,7 @@ POST
 
 ```javascript
 {
-        "postId": 1,
+        "userId": 1,
         "content": "저도 동의합니다"
 }
 ```

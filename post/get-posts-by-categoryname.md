@@ -1,4 +1,6 @@
-# Get Filtered Posts\(아직 개발 X\)
+# Get Posts by categoryName
+
+
 
 ### METHOD
 
@@ -9,18 +11,16 @@ GET
 ### URL
 
 ```text
-/gistps/api/v1/post/list?top=0&size=10&answered=true
+/gistps/api/v1/post/category?categoryName=분류2
 ```
+
+#### categoryName: 게시물이 해당하는 카테고리 이름 \(ex -분류2\)
 
 ### QUERY STRING
 
-| name | type | require | description |
+| name | type | require | descriptio |
 | :--- | :--- | :--- | :--- |
-| top | number | 선택, 기본값 = 0 | 참여인원이 많은 순서대로 게시물 top개를 불러옴 |
-| size | number | 선택, 기본값 = 10 | 불러올 게시물의 개수 |
 | category | string | 선택 | 선택한 카테고리에 해당하는 게시물을 불러옴 |
-| answered | boolean | 선택, 기본값 = false | 답변한 게시물을 불러옴 |
-|  |  |  |  |
 
 #### RESPONSE BODY EXAMPLE
 

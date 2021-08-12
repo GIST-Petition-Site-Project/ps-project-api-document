@@ -1,4 +1,4 @@
-# Get Posts by user Id
+# Get My Posts
 
 
 
