@@ -7,16 +7,17 @@
 * [Create User](user/create-user.md)
 * [Delete User](user/delete-user.md)
 * [Get All Users](user/get-all-users.md)
-* [Get Posts by user Id](user/get-my-posts.md)
+* [Get My Posts](user/get-my-posts.md)
 
 ## POST
 
 * [Create Post](post/create-post.md)
 * [Delete Post](post/delete-post.md)
 * [Get All Posts](post/get-all-posts.md)
-* [Get Filtered Posts](post/get-filtered-posts.md)
-* [Get One Post by post Id](post/get-post.md)
+* [Get Post by postId](post/get-post.md)
+* [Get Posts by categoryName](post/get-posts-by-categoryname.md)
 * [Get Number of All Posts](post/get-number-of-all-posts.md)
+* [Get Filtered Posts\(아직 개발 X\)](post/get-filtered-posts.md)
 
 ## COMMENT
 

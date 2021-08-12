@@ -32,7 +32,7 @@ POST
     "userId" : "sinyr119",
     "userPassword" : "qwer1234", 
     "username" : "koseyeon",
-    "email" : "sinyr119@gist.ac.kr",
+    "email" : "sinyr119@gist.ac.kr"
 }
 ```
 

@@ -1,4 +1,4 @@
-# Get Posts by user Id
+# Get My Posts
 
 
 
@@ -14,7 +14,7 @@ GET
 /gistps/api/v1/user/:id/post
 ```
 
-#### id: 유저 id
+#### id: 유저 고유 id \(숫자\)
 
 ### RESPONSE BODY EXAMPLE
 

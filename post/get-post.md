@@ -1,4 +1,4 @@
-# Get One Post by post Id
+# Get Post by postId
 
 
 
