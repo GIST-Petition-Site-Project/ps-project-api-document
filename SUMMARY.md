@@ -18,6 +18,7 @@
 * [Get Posts by categoryName](post/get-posts-by-categoryname.md)
 * [Get Number of All Posts](post/get-number-of-all-posts.md)
 * [Get Filtered Posts\(아직 개발 X\)](post/get-filtered-posts.md)
+* [Create Answer Post](post/create-answer-post.md)
 
 ## COMMENT
 

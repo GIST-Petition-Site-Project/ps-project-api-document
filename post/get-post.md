@@ -11,7 +11,7 @@ GET
 ## URL EXAMPLE
 
 ```text
-/gistps/api/v1/post/:id
+/gistps/api/v1/post/:postId
 ```
 
 #### id: 게시물 고유 id
