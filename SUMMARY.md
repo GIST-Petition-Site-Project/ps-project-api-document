@@ -5,6 +5,7 @@
 ## user
 
 * [Create User](user/create-user.md)
+* [Creat User \(이메일 인증 이전 버전\)](user/creat-user.md)
 * [Delete User](user/delete-user.md)
 * [Get All Users](user/get-all-users.md)
 * [Get My Posts](user/get-my-posts.md)
